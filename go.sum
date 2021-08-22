@@ -1,0 +1,8 @@
+github.com/bvkgo/kv v0.0.0-20210808221408-e27312603f8e h1:j3ehAMUrmaAJXpv92DRcuI5lWCmzXwjyziiTcE9S6Gg=
+github.com/bvkgo/kv v0.0.0-20210808221408-e27312603f8e/go.mod h1:DJs+HxZ3vV3oYD2ZXYz0EkV3cy2JYDr5Xn9K8wQCPjg=
+github.com/bvkgo/kvmemdb v0.0.0-20210813014201-5879b3cc5125 h1:7wXXIvTqpFHAhj8Wm/dfpWABSx0N7f2gsEfqAJZli7A=
+github.com/bvkgo/kvmemdb v0.0.0-20210813014201-5879b3cc5125/go.mod h1:3GmeyGL0a+LJ1bAmquEsSOIb+aVvA/m4d59L1WhrIYU=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 h1:go1bK/D/BFZV2I8cIQd1NKEZ+0owSTG1fDTci4IqFcE=
+golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
